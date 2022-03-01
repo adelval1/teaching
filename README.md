@@ -6,3 +6,4 @@ This repository is host to Jupyter Notebooks used to provide simple illustration
 - [Bayes' Billiard](https://colab.research.google.com/github/adelval1/teaching/blob/master/Bayes_Billiard.ipynb)
 - [Deterministic vs stochastic](https://colab.research.google.com/github/adelval1/teaching/blob/master/Deterministic_vs_stochastic.ipynb)
 - [Coin Flipping](https://colab.research.google.com/github/adelval1/teaching/blob/master/Coin_flipping.ipynb)
+- [Bayesian Model Averaging](https://colab.research.google.com/github/adelval1/teaching/blob/master/Bayesian_Model_Averaging.ipynb)
